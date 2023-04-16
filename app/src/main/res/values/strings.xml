@@ -1,0 +1,16 @@
+<resources>
+    <string name="GymManagement">Gymmange1</string>
+    <string name="log_in">Log In</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="AddNewMember">AddNewMember</string>
+    <string name="save">save</string>
+    <string name="Female" />
+    <string-array name="membership">
+   <item>select</item>
+        <item>1 Month</item>
+        <item>3 Months</item>
+        <item>6 Months</item>
+        <item>1 Year</item>
+        <item>3 Years</item>
+    </string-array>
+</resources>
